@@ -4,6 +4,14 @@ Halo ini adalah starter kit Auhtentication sederharana menggunakan bahasa pemogr
 - Login
 - Profile.
 
+### Cara Install
+- Clone Repository ini dengan cara
+```
+git clone https://github.com/andes2912/Go-Auth-Starter
+```
+- Masuk ke directory
+- Lalu jalankan ``` go run main.gp ```
+
 ### Package yang digunakan
 - [GoDotEnv](https://github.com/joho/godotenv)
 ``` 
