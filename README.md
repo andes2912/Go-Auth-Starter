@@ -12,6 +12,26 @@ git clone https://github.com/andes2912/Go-Auth-Starter
 - Masuk ke directory
 - Lalu jalankan ``` go run main.go ```
 
+### Documentation API
+- Register http://127.0.0.1:3000/register
+```
+{
+    "nama": "Andri Desmana",
+    "phone": "12345678",
+    "email": "andri@mail.com",
+    "password": "testing"
+}
+```
+
+- Login http://127.0.0.1:3000/login
+```
+{
+    "email": "andri@mail.com",
+    "password": "testing"
+}
+```
+- Profile http://127.0.0.1:3000/user
+
 ### Package yang digunakan
 - [GoDotEnv](https://github.com/joho/godotenv)
 ``` 
