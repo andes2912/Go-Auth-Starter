@@ -10,7 +10,7 @@ Halo ini adalah starter kit Auhtentication sederharana menggunakan bahasa pemogr
 git clone https://github.com/andes2912/Go-Auth-Starter
 ```
 - Masuk ke directory
-- Lalu jalankan ``` go run main.gp ```
+- Lalu jalankan ``` go run main.go ```
 
 ### Package yang digunakan
 - [GoDotEnv](https://github.com/joho/godotenv)
