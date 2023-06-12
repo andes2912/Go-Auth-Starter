@@ -51,7 +51,7 @@ go get -u github.com/gin-gonic/gin
 - [GORM](https://gorm.io/)
 ```
 go get -u gorm.io/gorm
-go get -u gorm.io/driver/mqsql
+go get -u gorm.io/driver/mysql
 ```
 - [Go Cryptography](https://pkg.go.dev/golang.org/x/crypto#section-readme)
 ```
